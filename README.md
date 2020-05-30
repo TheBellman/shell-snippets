@@ -70,6 +70,7 @@ alias myip="echo \$(curl -s https://api.ipify.org)"
 | ------ | -------- |
 | docker-clean.sh | A nuclear option to erase anything and everything running |
 | updateAwsCli.sh | updates or installs the [AWS CLI 2.x](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html) package - note this is MacOS specific! |
+| archive.sh | creates a zip of the current Git project branch |
 
 ### update.sh
 
